@@ -1,4 +1,4 @@
-# Medium-TaipyRepo
+#1. Medium-TaipyRepo
 Demo - Dashboards using Taipy GU
 
 https://medium.com/@zaccheussia/elegant-dashboards-for-python-ml-apps-using-taipy-gui-6e3c59d70a1f#b628
